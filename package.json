@@ -1,0 +1,17 @@
+{
+  "name": "cermati_scraper",
+  "version": "1.0.0",
+  "description": "credit card promotion scraper",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roselina Pradjanata",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "request": "^2.85.0"
+  }
+}
