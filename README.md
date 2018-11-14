@@ -1,2 +1,2 @@
-# CermatiScraper
-Web scraper for BNI mobile promotions
+# bni-promotions-scraper
+Web scraper for BNI mobile promotions using Node.js
